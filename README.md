@@ -10,7 +10,7 @@ I'm a software engineer focused on building scalable, composable systems that co
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e08de51708f6b10b7daa5903e9687cea25bd21c7bc2007cfc8c9801e5b6fca09/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d63616573657231393936267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34"><img src="https://camo.githubusercontent.com/e08de51708f6b10b7daa5903e9687cea25bd21c7bc2007cfc8c9801e5b6fca09/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d63616573657231393936267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34" alt="" data-canonical-src="https://github-profile-trophy.vercel.app/?username=caeser1996&amp;theme=radical&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" style="max-width: 100%;"></a></p>
 
 ### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="400px" height="250px"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="400px" height="auto"/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=daddydrac&limit=10&theme=dark_dimmed&combine_all_yearly_contributions=true)
